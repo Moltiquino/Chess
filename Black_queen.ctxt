@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Black_queen
+comment1.params=
+comment1.target=java.lang.String\ chessPawn()
+comment2.params=
+comment2.target=char\ pawnType()
+comment3.params=
+comment3.target=void\ printImage()
+comment4.params=chessboard\ srcRow\ srcCol\ destRow\ destCol
+comment4.target=boolean\ isValid(chessPawns[][],\ int,\ int,\ int,\ int)
+numComments=5

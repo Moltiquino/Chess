@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=chessboard
+comment1.params=
+comment1.target=void\ populate_chessboard()
+comment2.params=
+comment2.target=void\ print_chessboard()
+comment3.params=in
+comment3.target=boolean\ validateInput(java.lang.String)
+comment4.params=column
+comment4.target=int\ getColPosition(java.lang.String)
+comment5.params=column
+comment5.target=int\ getRowPosition(java.lang.String)
+comment6.params=
+comment6.target=void\ move()
+comment7.params=
+comment7.target=void\ exitGame()
+comment8.params=
+comment8.target=java.lang.String\ readInput()
+comment9.params=
+comment9.target=void\ main()
+numComments=10
